@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: hue-motion-sensor
+    deviceLabel: Hue Motion Sensor
+    manufacturer: Philips
+    model: SML002
+    deviceProfileName: hue-outdoor-sensor
